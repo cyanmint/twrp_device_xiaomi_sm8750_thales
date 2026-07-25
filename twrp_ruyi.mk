@@ -4,14 +4,14 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/xiaomi/sm8750_thales
+DEVICE_PATH := device/xiaomi/ruyi
 
 # Inherit from device.mk configuration
 $(call inherit-product, $(DEVICE_PATH)/device.mk)
 
 ## Device identifier
-PRODUCT_DEVICE := sm8750_thales
-PRODUCT_NAME := twrp_sm8750_thales
+PRODUCT_DEVICE := ruyi
+PRODUCT_NAME := twrp_ruyi
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
 

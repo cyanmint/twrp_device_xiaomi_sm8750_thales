@@ -1,4 +1,4 @@
-# TWRP device tree for Xiaomi SM8750
+# TWRP device tree for Xiaomi ruyi
 
 ## Features
 
